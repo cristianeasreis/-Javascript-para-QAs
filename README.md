@@ -1,2 +1,2 @@
-# -Javascript-para-QAs
+# Javascript para QAs
 Estudo de Javasript para QAs -  Udemy
